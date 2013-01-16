@@ -1,0 +1,16 @@
+div.page {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+div.page span {
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+    text-align: center;
+}
+
+canvas {
+    border: 1px black solid;
+}
